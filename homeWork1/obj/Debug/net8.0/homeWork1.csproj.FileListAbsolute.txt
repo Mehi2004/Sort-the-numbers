@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\bin\Debug\net8.0\homeWork1.exe
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\bin\Debug\net8.0\homeWork1.deps.json
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\bin\Debug\net8.0\homeWork1.runtimeconfig.json
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\bin\Debug\net8.0\homeWork1.dll
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\bin\Debug\net8.0\homeWork1.pdb
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\obj\Debug\net8.0\homeWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\obj\Debug\net8.0\homeWork1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\obj\Debug\net8.0\homeWork1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\obj\Debug\net8.0\homeWork1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\obj\Debug\net8.0\homeWork1.dll
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\obj\Debug\net8.0\refint\homeWork1.dll
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\obj\Debug\net8.0\homeWork1.pdb
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\obj\Debug\net8.0\homeWork1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\c#.net class\home work\homeWork\homeWork1\obj\Debug\net8.0\ref\homeWork1.dll
